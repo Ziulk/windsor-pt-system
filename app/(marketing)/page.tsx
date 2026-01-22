@@ -131,7 +131,7 @@ export default function HomePage() {
             </p>
             <div className="space-y-4">
               <a
-                href="https://calendly.com/your-link-here"
+                href="https://calendar.app.google/M1kTS9VLozU6zixN9"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block px-8 py-4 bg-blue-600 text-white text-lg font-semibold rounded-lg hover:bg-blue-700 transition-colors shadow-lg"
